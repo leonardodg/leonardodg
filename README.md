@@ -48,3 +48,6 @@
 </div>
 
 ---
+
+
+![snake gif](https://github.com/leonardodg/leonardodg/blob/output/github-snake-dark.svg)

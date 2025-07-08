@@ -4,10 +4,10 @@
 
 <div>
     <a href="https://leodg.dev">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=leonardodg&repo=convoychat&show_icons=true&theme=dark" />
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=leonardodg&show_icons=true&count_private=true&include_all_commits=true&theme=transparent" />
     </a>
     <a href="https://leodg.dev">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardodg&show_icons=true&theme=dark" />
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardodg&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
     </a>
 </div>
 

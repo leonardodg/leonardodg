@@ -1,6 +1,6 @@
 # Hi, I'm Leonardodg 🇧🇷 🇮🇹 🇮🇪 🇪🇺
-
-## I Love technology 🤖 💻 🖥️ And Development 🚀 👨‍🚀 👾
+## Web Front-end Developer
+### I Love technology 🤖 💻 🖥️ And Development 🚀 👨‍🚀 👾
 
 <div>
     <a href="https://leodg.dev">

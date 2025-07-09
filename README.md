@@ -1,4 +1,4 @@
-# Hi, I'm Leonardodg 🇧🇷
+# Hi, I'm Leonardodg 🇧🇷 🇮🇹 🇮🇪 🇪🇺
 
 ## I Love technology 🤖 💻 🖥️ And Development 🚀 👨‍🚀 👾
 

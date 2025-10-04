@@ -1,6 +1,19 @@
-# Hi, I'm Leonardodg 🇧🇷 🇮🇹 🇮🇪 🇪🇺
-## Web Front-end Developer
-### I Love technology 🤖 💻 🖥️ And Development 🚀 👨‍🚀 👾
+# Hi, I'm Leonardo DG 🇧🇷 🇮🇹 🇪🇺
+=============================
+
+## Senior Full Stack Web Developer && Moodle Specialist 
+-------------
+### 🤖 👾 I Love technology and Development 🚀 👨‍🚀 
+
+
+
+* 🌍  I'm based in Dublin, Ireland 🇮🇪
+* 👨‍💻  I'm a Senior Full Stack Web Developer with 15+ years of experience
+* 🖥️  See my portfolio at [leodg.dev](http://www.leodg.dev)
+* ✉️  You can contact me at [callme@leodg.dev](mailto:callme@leodg.dev)
+* 🧠  I'm learning and improving my English proficiency to become fluent
+* 🤝  I'm open to opportunities in web development across Europe or remotely around the world
+
 
 <div>
     <a href="https://leodg.dev">
